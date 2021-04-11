@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fabf62a6-ac74-4e13-be66-c64ee78cf379" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.~lock.Untitled 1.odt#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled 1.odt" afterDir="false" />
-    </list>
+    <list default="true" id="fabf62a6-ac74-4e13-be66-c64ee78cf379" name="Default Changelist" comment="initial Push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +36,21 @@
       <option name="presentableId" value="Default" />
       <updated>1618152237072</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial Push">
+      <created>1618153675746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618153675746</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial Push">
+      <created>1618153699404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618153699404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +66,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Push" />
   </component>
 </project>
